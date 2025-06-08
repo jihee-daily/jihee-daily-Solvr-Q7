@@ -2,7 +2,8 @@
 
 GitHub 릴리즈 데이터를 분석하고 시각화하는 웹 대시보드입니다. CSV 파일을 기반으로 릴리즈 동향, 안정성, 개발 생산성 등 다양한 인사이트를 제공합니다.
 
-![Dashboard Screenshot](./client/public/dashboard-screenshot.png)
+![Dashboard Screenshot](image.png)
+![Dashboard Screenshot](image.png)
 
 ## ✨ 주요 기능
 
