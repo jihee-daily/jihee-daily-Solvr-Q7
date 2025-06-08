@@ -2,11 +2,11 @@ import dotenvSafe from 'dotenv-safe'
 import path from 'path'
 
 // .env 파일 로드 (dotenv-safe 사용)
-dotenvSafe.config({
+/* dotenvSafe.config({
   path: path.resolve(process.cwd(), '.env'),
   example: path.resolve(process.cwd(), '.env.example'),
   allowEmptyValues: true
-})
+}) */
 
 // 환경 변수 타입 정의
 interface Env {
